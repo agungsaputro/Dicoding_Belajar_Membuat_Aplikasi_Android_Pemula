@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Android Pemula Naruto</string>
+    <string name="item_naruto">naruto</string>
+    <string name="item_detail">naruto adalah ninja konoha</string>
+</resources>
